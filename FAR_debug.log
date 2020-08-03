@@ -2,3 +2,10 @@
 [2020-08-01 17:32:01.646] [FARlog] [trace] StartRenderingView called
 [2020-08-01 17:32:01.685] [FARlog] [trace] Render begin!
 [2020-08-01 17:32:21.183] [FARlog] [trace] Render end! result code = 0
+[2020-08-03 09:10:01.334] [FARlog] [info] --------Log begin---------
+[2020-08-03 09:10:01.334] [FARlog] [trace] StartRenderingView called
+[2020-08-03 09:10:01.375] [FARlog] [trace] Render begin!
+[2020-08-03 09:10:13.660] [FARlog] [trace] Render end! result code = 0
+[2020-08-03 09:21:35.455] [FARlog] [trace] StartRenderingView called
+[2020-08-03 09:21:35.512] [FARlog] [trace] Render begin!
+[2020-08-03 09:21:46.459] [FARlog] [trace] Render end! result code = 0
